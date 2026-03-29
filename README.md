@@ -117,6 +117,12 @@ Backend → http://localhost:3000
 
 Seed Admin User (if needed)
 
+# Live 
+
+backend -> <https://blood-donation-management-1-hpao.onrender.com/>
+frontend -> <https://blood-donation-management.vercel.app/>
+
+
 ```bash
 docker exec -it backend node seedAdmin.js
 ```
